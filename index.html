@@ -63,7 +63,7 @@
 
         #search-input {
             width: 100%;
-            padding: 10px 15px;
+            padding: 10px 38px 10px 15px;
             border: 1px solid #ddd;
             border-radius: 5px;
             font-size: 14px;
@@ -74,6 +74,41 @@
             outline: none;
             border-color: #2F75B5;
             box-shadow: 0 0 0 3px rgba(47, 117, 181, 0.1);
+        }
+
+        .search-input-wrapper {
+            position: relative;
+        }
+
+        #clear-search {
+            position: absolute;
+            right: 10px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 22px;
+            height: 22px;
+            border: none;
+            border-radius: 50%;
+            background: #e9ecef;
+            color: #666;
+            cursor: pointer;
+            font-weight: bold;
+            line-height: 22px;
+            padding: 0;
+            display: none;
+        }
+
+        #clear-search.visible {
+            display: block;
+        }
+
+        #clear-search:hover {
+            background: #d7dbe0;
+        }
+
+        #clear-search:focus {
+            outline: none;
+            box-shadow: 0 0 0 3px rgba(47, 117, 181, 0.2);
         }
 
         /* Lista de puntos */
@@ -241,7 +276,10 @@
             </div>
 
             <div id="search-container">
-                <input type="text" id="search-input" placeholder="Buscar centro..." autocomplete="off">
+                <div class="search-input-wrapper">
+                    <input type="text" id="search-input" placeholder="Buscar centro..." autocomplete="off">
+                    <button type="button" id="clear-search" aria-label="Limpiar busqueda">X</button>
+                </div>
             </div>
 
             <div id="points-list"></div>
@@ -524,8 +562,27 @@
             document.getElementById('visible-count').textContent = filtered.length;
         }
 
-        document.getElementById('search-input').addEventListener('input', function (e) {
+        const searchInput = document.getElementById('search-input');
+        const clearSearch = document.getElementById('clear-search');
+
+        function updateClearButton() {
+            if (searchInput.value.trim() === '') {
+                clearSearch.classList.remove('visible');
+            } else {
+                clearSearch.classList.add('visible');
+            }
+        }
+
+        searchInput.addEventListener('input', function (e) {
             renderList(e.target.value);
+            updateClearButton();
+        });
+
+        clearSearch.addEventListener('click', function () {
+            searchInput.value = '';
+            renderList('');
+            updateClearButton();
+            searchInput.focus();
         });
 
         document.getElementById('toggle-sidebar').addEventListener('click', function () {
