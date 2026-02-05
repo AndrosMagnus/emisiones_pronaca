@@ -1,0 +1,820 @@
+{
+  "type": "FeatureCollection",
+  "name": "centros_emision_metano",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "row_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.225863,
+          -0.873412
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "BELLA JUNGLA",
+        "nombre_comercial_ruc": "BELLA JUNGLA",
+        "est_ruc": 2,
+        "provincia": "COTOPAXI",
+        "canton": "LA MANÁ",
+        "parroquia": "EL CARMEN",
+        "direccion": "Parroquia El Carmen - vía a Bella Jungla - sector Bella Jungla",
+        "wgs84_latitud": 697426,
+        "wgs84_longitud": 9903415,
+        "latitud": "-0.873412",
+        "longitud": "-79.225863",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 2
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.329157,
+          -0.417438
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS AFORTUNADOS",
+        "nombre_comercial_ruc": "CHANCHOS LOS AFORTUNADOS ",
+        "est_ruc": 119,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "LUZ DE AMÉRICA",
+        "direccion": "Km 36 Vía Quevedo margen derecho. A 2,5 km de la vía Quevedo.",
+        "wgs84_latitud": 685061,
+        "wgs84_longitud": 9953312,
+        "latitud": "-0.417438",
+        "longitud": "-79.329157",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 3
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.182653,
+          -0.440514
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS CAMPO LINDO",
+        "nombre_comercial_ruc": "PRONACA CAMPO LINDO",
+        "est_ruc": 84,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "EL ESFUERZO",
+        "direccion": "A 100 metros de la garita de entrada al Recinto la Reforma",
+        "wgs84_latitud": 702312,
+        "wgs84_longitud": 9951894,
+        "latitud": "-0.440514",
+        "longitud": "-79.182653",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 4
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.245392,
+          -0.151815
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS COLORADOS",
+        "nombre_comercial_ruc": "PRONACA - CHANCHOS COLORADOS",
+        "est_ruc": 52,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "RIO TOACHI",
+        "direccion": "Km 16 Vía Quinindé, Margen Izquierdo",
+        "wgs84_latitud": 695274,
+        "wgs84_longitud": 9983212,
+        "latitud": "-0.151815",
+        "longitud": "-79.245392",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 5
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.195197,
+          -0.18645
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS ORO",
+        "nombre_comercial_ruc": "PRONACA - CHANCHOS ORO",
+        "est_ruc": 53,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "RIO TOACHI",
+        "direccion": "Km 8 1/2 Vía Quinindé  Margen Derecha, Entrada  Inaexpo",
+        "wgs84_latitud": 700557,
+        "wgs84_longitud": 9979356,
+        "latitud": "-0.186450",
+        "longitud": "-79.195197",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 6
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.027354,
+          -0.319696
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS PARAISO ",
+        "nombre_comercial_ruc": "PRONACA - CHANCHOS TOACHI RECRIA",
+        "est_ruc": 50,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "ALLURIQUIN",
+        "direccion": "Km  18 Vía Quito, Margen Derecho",
+        "wgs84_latitud": 719044,
+        "wgs84_longitud": 9964358,
+        "latitud": "-0.319696",
+        "longitud": "-79.027354",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 7
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.236162,
+          -0.301903
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS PLATA 1",
+        "nombre_comercial_ruc": "PRONACA - CHANCHOS DE PLATA ",
+        "est_ruc": 56,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "PUERTO LIMÓN",
+        "direccion": "Km 7 vía Quevedo margen derecho antes de la Comuna Tsáchila Peripa",
+        "wgs84_latitud": 696438,
+        "wgs84_longitud": 9966848,
+        "latitud": "-0.301903",
+        "longitud": "-79.236162",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 8
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.236262,
+          -0.309631
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS PLATA 2",
+        "nombre_comercial_ruc": "CHANCHOS PLATA 2",
+        "est_ruc": 126,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "PUERTO LIMÓN",
+        "direccion": "Km 7 vía Quevedo margen derecho, pasando la entrada a la Comuna Tsáchila Peripa",
+        "wgs84_latitud": 696249,
+        "wgs84_longitud": 9965600,
+        "latitud": "-0.309631",
+        "longitud": "-79.236262",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 9
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.28766,
+          -0.070266
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS SAN JAVIER",
+        "nombre_comercial_ruc": "PRONACA - CHANCHOS SAN JAVIER",
+        "est_ruc": 54,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "VALLE HERMOSO",
+        "direccion": "Km 23 Vía Quinindé, Margen Derecho a 1 km de la entrada a Valle Hermoso",
+        "wgs84_latitud": 690569,
+        "wgs84_longitud": 9992230,
+        "latitud": "-0.070266",
+        "longitud": "-79.287660",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 10
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.300325,
+          -0.085821
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS SOCORRO",
+        "nombre_comercial_ruc": "CHANCHOS DEL SOCORRO",
+        "est_ruc": 79,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "VALLE HERMOSO",
+        "direccion": "Km 23 Vía Quinindé, Margen Derecho a 1 km de la entrada a Valle Hermoso",
+        "wgs84_latitud": 689159,
+        "wgs84_longitud": 9990510,
+        "latitud": "-0.085821",
+        "longitud": "-79.300325",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 11
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.028977,
+          -0.323873
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS TOACHI 1",
+        "nombre_comercial_ruc": "PRONACA - CHANCHOS TOACHI",
+        "est_ruc": 49,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "ALLURIQUIN",
+        "direccion": "Km  18 Vía Quito, Margen Derecho",
+        "wgs84_latitud": 719133,
+        "wgs84_longitud": 9963794,
+        "latitud": "-0.323873",
+        "longitud": "-79.028977",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 12
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.024186,
+          -0.32186
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS TOACHI 2",
+        "nombre_comercial_ruc": "PRONACA - CHANCHOS TOACHI II",
+        "est_ruc": 51,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "ALLURIQUIN",
+        "direccion": "Km  18 Vía Quito, Margen Derecho",
+        "wgs84_latitud": 720054,
+        "wgs84_longitud": 9963866,
+        "latitud": "-0.321860",
+        "longitud": "-79.024186",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 13
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.342869,
+          -0.032321
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS TROPICALES",
+        "nombre_comercial_ruc": "PRONACA - CHANCHOS TROPICALES",
+        "est_ruc": 55,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "LA CONCORDIA",
+        "parroquia": "LA CONCORDIA",
+        "direccion": "Km 36 Vía Quinindé, Margen Derecho a 500 metros de Ceuroma.",
+        "wgs84_latitud": 684423,
+        "wgs84_longitud": 9996426,
+        "latitud": "-0.032321",
+        "longitud": "-79.342869",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 14
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.195024,
+          -0.190984
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS VALENTINA ",
+        "nombre_comercial_ruc": "PRONACA CHANCHOS VALENTINA ",
+        "est_ruc": 86,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "RIO TOACHI",
+        "direccion": "Km. 8 1/2  Vía a Quinindé, Margen Derecho; Entrada INAEXPO",
+        "wgs84_latitud": 700881,
+        "wgs84_longitud": 9978880,
+        "latitud": "-0.190984",
+        "longitud": "-79.195024",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 15
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.199706,
+          -0.169372
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CHANCHOS ZARACAY",
+        "nombre_comercial_ruc": "PRONACA ZARACAY",
+        "est_ruc": 77,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "RIO TOACHI",
+        "direccion": "Km 12 Vía Quinindé, Margen Derecho. Diagonal a la Urb. San Vicente.",
+        "wgs84_latitud": 700360,
+        "wgs84_longitud": 9981270,
+        "latitud": "-0.169372",
+        "longitud": "-79.199706",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 16
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.252309,
+          -0.729324
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "LOMA LINDA 2",
+        "nombre_comercial_ruc": "LOMA LINDA",
+        "est_ruc": 1,
+        "provincia": "LOS RIOS",
+        "canton": "VALENCIA",
+        "parroquia": "EL VERGEL",
+        "direccion": "Parroquia El Vergel - vía a La Sucre Km 5. sector Gualipe",
+        "wgs84_latitud": 694489,
+        "wgs84_longitud": 9919350,
+        "latitud": "-0.729324",
+        "longitud": "-79.252309",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 17
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.25231,
+          -0.729325
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "LOMA LINDA 3",
+        "nombre_comercial_ruc": "LOMA LINDA",
+        "est_ruc": 1,
+        "provincia": "LOS RIOS",
+        "canton": "VALENCIA",
+        "parroquia": "EL VERGEL",
+        "direccion": "Parroquia El Vergel - vía a La Sucre Km 5. sector Gualipe",
+        "wgs84_latitud": 694489,
+        "wgs84_longitud": 9919350,
+        "latitud": "-0.729325",
+        "longitud": "-79.252310",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 18
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.262823,
+          -0.719824
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "PLANTA DE ABONOS STO DGO",
+        "nombre_comercial_ruc": "PRONACA ABONOS SANTO DOMINGO",
+        "est_ruc": 101,
+        "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+        "canton": "SANTO DOMINGO",
+        "parroquia": "RIO TOACHI",
+        "direccion": "Km. 8 1/2  Vía a Quinindé, Margen Derecho; antes de INAEXPO",
+        "wgs84_latitud": 693319,
+        "wgs84_longitud": 9920401,
+        "latitud": "-0.719824",
+        "longitud": "-79.262823",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 19
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.23523,
+          -2.13076
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "AVES ROSARIO",
+        "nombre_comercial_ruc": "PRONACA ENGORDE - ROSARIO",
+        "est_ruc": 32,
+        "provincia": "GUAYAS",
+        "canton": "GENERAL ANTONIO ELIZALDE",
+        "parroquia": "GENERAL ANTONIO ELIZALDE (BUCAY)",
+        "direccion": "GENERAL ANTONIO ELIZALDE (BUCAY); 5 KM DE LA ENTRADA A MATILDE ESTHER Carretero: BUCAY-NARANJITO; KM18",
+        "wgs84_latitud": 696476.96,
+        "wgs84_longitud": 9764543.26,
+        "latitud": "-2.130760",
+        "longitud": "-79.235230",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 20
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.286093,
+          -2.305758
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "PLANTA DE ABONOS BUCAY",
+        "nombre_comercial_ruc": "PRONACA ABONOS BUCAY",
+        "est_ruc": 100,
+        "provincia": "GUAYAS",
+        "canton": "EL TRIUNFO",
+        "parroquia": "EL TRIUNFO",
+        "direccion": " EL TRIUNFO - BUCAY KM 13",
+        "wgs84_latitud": 690916.53,
+        "wgs84_longitud": 9744531.81,
+        "latitud": "-2.305758",
+        "longitud": "-79.286093",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 21
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.354851,
+          -2.22313
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "SAN CARLOS 1",
+        "nombre_comercial_ruc": "PRONACA REPRODUCTORAS - SAN CARLOS 1",
+        "est_ruc": 22,
+        "provincia": "GUAYAS",
+        "canton": "CORONEL MARCELINO MARIDUEÑA",
+        "parroquia": "CORONEL MARCELINO MARIDUEÑA (SAN CARLOS)",
+        "direccion": "MARCELINO MARIDUEÑA; SAN CARLOS VIA PRETORIA ",
+        "wgs84_latitud": 682952.26,
+        "wgs84_longitud": 9754174.16,
+        "latitud": "-2.223130",
+        "longitud": "-79.354851",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 22
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "row_23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.704971,
+          -2.396696
+        ]
+      },
+      "properties": {
+        "tipo": "CENTRO DE OPERACIÓN ",
+        "nombre_instalacion": "CENTRO INDUSTRIAL DURÁN",
+        "nombre_comercial_ruc": "PRONACA - PLANTA DE ALIMENTOS DURAN",
+        "est_ruc": 69,
+        "provincia": "GUAYAS",
+        "canton": "DURAN ",
+        "parroquia": "ELOY ALFARO DURAN",
+        "direccion": "Via Duran - Tambo S/N Interseccion:junto al Rio Guayas S. 13-A Mz.A3 Km. ",
+        "wgs84_latitud": 532801,
+        "wgs84_longitud": 9735088,
+        "latitud": "-2.396696",
+        "longitud": "-80.704971",
+        "_metadata": {
+          "decimal_coordinates": {
+            "lat_field": "latitud",
+            "lon_field": "longitud"
+          },
+          "wgs84_fields_as_provided": {
+            "lat_field": "wgs84_latitud",
+            "lon_field": "wgs84_longitud"
+          },
+          "source_file": "Listado centros emisión metano.xlsx",
+          "row_number_in_source": 23
+        }
+      }
+    }
+  ]
+}
